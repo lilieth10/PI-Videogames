@@ -1,0 +1,139 @@
+.imgFondo{
+    background: url("https://getwallpapers.com/wallpaper/full/6/0/9/286655.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+}
+
+.containerForm{
+    background-color: rgb(18, 19, 18);
+    margin: 10px;
+    border-radius: 3%;
+  border-style: solid;
+  border-color: rgb(70, 241, 2);
+    width: 20rem;
+    height:auto;
+    text-align: center;
+    font-size: 10px;
+    font-family: cursive;
+    color: rgba(9, 1, 17, 0.945);
+     flex-wrap:wrap;
+    background-attachment: fixed; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:300px;
+    text-align: center;
+}
+
+.title{
+    text-align:center;
+    font-family:cursive;
+    color: rgba(222, 216, 228, 0.945);
+    font-size: 4ch;
+    margin-bottom: 20px;
+    margin-top: 0pt;
+}
+
+.name{
+text-align:center;
+font-family:cursive;
+line-height: 10px;
+font-size:14px;
+margin-bottom: 0px;
+margin-top: 5pt;
+}
+
+.description{
+text-align:center;
+font-family:cursive;
+line-height: 10px;
+font-size:14px;
+margin-bottom: 0px;
+margin-top: 5pt;
+}
+
+.image{
+text-align:center;
+font-family:cursive;
+line-height: 10px;
+font-size:14px;
+margin-bottom: 0px;
+margin-top: 5pt;
+}
+
+.platforms{
+  text-align:center;
+  font-family:cursive;
+  line-height: 10px;
+  font-size:14px;
+  margin-bottom: 0px;
+  margin-top: 5pt;
+}
+
+.genres{
+  text-align:center;
+  font-family:cursive;
+  line-height: 10px;
+  font-size:14px;
+  margin-bottom: 0px;
+  margin-top: 5pt;
+}
+
+.rating{
+    text-align:center;
+    font-family:cursive;
+    line-height: 10px;
+    font-size:14px;
+    margin-bottom: 0px;
+    margin-top: 5pt;
+}
+
+.released{
+    text-align:center;
+    font-family:cursive;
+   line-height: 10px;
+    font-size:14px;
+    margin-bottom: 0px;
+    margin-top: 5pt;
+}
+
+.white{
+    color: white;
+}
+
+.create{
+    color: rgb(46, 41, 41);
+    background-color: rgb(131, 163, 224);
+    border: 1px rgb(85, 113, 175) solid;
+    cursor: pointer;
+    transition: all .3s ease;
+    font-family: "Finlandica";
+    font-weight: 700;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+
+.create:hover{
+    color: white;
+    background-color: rgb(78, 101, 177);
+}
+
+.list{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 4px;
+}
+
+.error{
+    color: white;
+}
